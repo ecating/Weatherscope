@@ -1,0 +1,15 @@
+Sunrise
+0730
+Alarm1
+0730
+Snooze
+10
+Motif
+rand
+Alarm2
+0745
+snooze
+10
+Motif
+1
+END
